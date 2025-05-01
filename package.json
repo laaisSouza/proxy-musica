@@ -1,0 +1,11 @@
+{
+ "nome": "proxy-música",
+ "versão": "1.0.0",
+ "diretor": "proxy.js",
+ "tipo": "módulo",
+ "dependências": {
+ "expresso": "^4.18.2",
+ "busca de nó": "^3.3.2",
+ "cors": "^2.8.5"
+  }
+}
